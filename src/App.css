@@ -1,0 +1,20 @@
+
+
+@media (max-width: 767px) {
+    .Card {
+        width: 100%;
+    }
+}
+
+.student-table-container {
+    padding: 16px;
+    max-width: 100%;
+    overflow-x: auto; 
+    /* horizontal scroll for small screens */
+}
+
+/* Styles for the button */
+.table-btn {
+    margin-top: 16px;
+    
+}
